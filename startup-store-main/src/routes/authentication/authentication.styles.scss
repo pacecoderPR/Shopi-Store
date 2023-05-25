@@ -1,0 +1,12 @@
+@mixin flex {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px auto;
+  width: 900px;
+  padding: 1rem;
+}
+
+
+.authentication-container {
+  @include flex;
+}
