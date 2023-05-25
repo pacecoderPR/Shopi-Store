@@ -1,3 +1,0 @@
-# Clothing Startup Store
-
-
